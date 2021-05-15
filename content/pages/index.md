@@ -82,8 +82,8 @@ sections:
   - type: cta_section
     title: About Us
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Established in 2013, NIVAID has been providing supply management solutions
+      to global institutional, wholesale, retail, and ecommerce players.
     actions:
       - label: Learn More
         url: /features
