@@ -37,7 +37,16 @@
         "has_nav": true,
         "nav_links": [],
         "has_social": true,
-        "social_links": [],
+        "social_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
         "links": [
             {
                 "url": "© 2021 NIVAID Infra Pvt Ltd. All Rights Reserved.",
