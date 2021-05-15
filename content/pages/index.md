@@ -39,7 +39,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-        title: '*JUMAO Oxygen Concentrator - 5 LPM  (Ready Stock) '
+        title: JUMAO Oxygen Concentrator - 5 LPM  (Ready Stock)
       - title: SYSMED Oxygen Concentrator - 10 LPM (Medical Grade)
         content: |
           Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
