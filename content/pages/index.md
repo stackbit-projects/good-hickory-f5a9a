@@ -57,7 +57,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: DYNMED Oxygen Concentrator - 10 LPM (Medical Grade)
+      - title: DYNMED 10 LPM
         content: |
           *   Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
 
