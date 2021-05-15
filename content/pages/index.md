@@ -41,7 +41,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             new_window: false
