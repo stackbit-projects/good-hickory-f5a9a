@@ -23,7 +23,7 @@ sections:
       background_image_repeat: no-repeat
       background_image: images/fabulous-plankton.jpeg
   - type: features_section
-    title: Features
+    title: COVID - Oxygen Concentrators
     features:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
