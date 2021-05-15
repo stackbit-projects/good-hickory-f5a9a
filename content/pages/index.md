@@ -68,7 +68,7 @@ sections:
 
           *   Delivery -  5th June, 2021
         align: left
-        image: images/DYNmED_new_2.PNG
+        image: images/incredible-hedgehog.PNG
         image_alt: DYNMED
         image_position: right
         actions:
