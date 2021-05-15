@@ -1,5 +1,4 @@
 ---
-author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/general.yaml
 image_alt: Post 1 placeholder image
