@@ -14,6 +14,8 @@ sections:
           - label: Learn More
             url: /about
             style: primary
+        content: |
+          Oxygen Saturation - 93% +- 3% at all flowrate (0.5 L - 5L)
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
