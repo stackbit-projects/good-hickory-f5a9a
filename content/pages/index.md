@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/thoughtful-planet.jpeg
+    image: images/important-sun.jpeg
     image_alt: Hero placeholder image
     image_position: right
     has_background: false
