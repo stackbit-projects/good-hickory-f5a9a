@@ -1,5 +1,5 @@
 ---
-title: Medical Equipment Sourcing
+title: Supply Chain Management
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
