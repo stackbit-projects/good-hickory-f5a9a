@@ -25,13 +25,15 @@ sections:
   - type: features_section
     title: COVID - Oxygen Concentrators
     features:
-      - content: |
-          **JUMAO Oxygen Concentrator - 5 LPM **
+      - content: >
+          ##### **Available for Delivery by 18th May **
 
 
+          *JUMAO Oxygen Concentrator - 5 LPM  with 93% + 3%** **Oxygen
+          Saturation *
 
 
-          ****
+          ***
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
