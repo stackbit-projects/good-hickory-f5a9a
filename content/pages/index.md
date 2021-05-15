@@ -2,9 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: >-
-      Sourcing Medical Devices Quality Control - Regulatory Compliance - Supply
-      - Shipping - Logistics
+    title: 'Sourcing Medical Devices '
     subtitle: Aligning Strategic relationships to organizational goals
     actions:
       - label: Learn More
