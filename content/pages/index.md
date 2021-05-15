@@ -61,9 +61,9 @@ sections:
         content: |
           *   Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
 
-          *   Price and Availabity - 96,000 + GST;  Minimum - 15 units
+          *   Price and Availabity - 96,000 + GST;  Minimum Purchase - 30 units
 
-          *   Delivery -  31st May, 2021
+          *   Delivery -  5th June, 2021
         align: left
         image: images/DYNMED_10LPM.png
         image_alt: Feature 3 placeholder image
