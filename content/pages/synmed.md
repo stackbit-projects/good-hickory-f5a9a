@@ -16,7 +16,7 @@ sections:
   - type: features_section
     features:
       - align: left
-        image: images/cool-daffodil.png
+        image: images/rainy-paprika.PNG
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
