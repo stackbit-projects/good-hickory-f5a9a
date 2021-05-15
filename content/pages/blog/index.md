@@ -2,7 +2,7 @@
 title: Our Services
 sections:
   - type: hero_section
-    title: Blog
+    title: Our Services
     align: center
   - type: blog_feed_section
     show_recent: false
