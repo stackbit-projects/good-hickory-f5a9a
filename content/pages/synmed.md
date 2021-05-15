@@ -25,7 +25,7 @@ sections:
       - content: |
           ![](/images/smart-lavender.png)
         align: left
-        image: images/blue-amaranth.png
+        image: images/incredible-saturn.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
