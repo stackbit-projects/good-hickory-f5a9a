@@ -21,7 +21,7 @@ sections:
         image_position: left
         actions: []
         title: JUMAO 5 LPM Oxygen Concentrator
-      - title: Flowmeter
+      - title: Flowmeter with Humdified and Regulator
         content: >
           Specially Designed Metal Knob; Poly Carbonate Bottle ;  Specialy Made
           spindle for fine adjustment; Adjustable reductor
