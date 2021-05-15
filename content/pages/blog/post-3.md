@@ -1,8 +1,7 @@
 ---
 title: Service and Repair
 date: '2020-05-28'
-categories:
-  - content/data/categories/general.yaml
+categories: []
 tags:
   - Stackbit
   - JAMstack
