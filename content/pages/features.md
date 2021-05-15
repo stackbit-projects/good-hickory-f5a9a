@@ -29,10 +29,7 @@ sections:
         image: images/blue-amaranth.png
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
+        actions: []
 seo:
   title: Features
   description: This is the features page
