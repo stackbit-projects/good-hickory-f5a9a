@@ -53,7 +53,7 @@ sections:
 
           *   Delivery -  31st May, 2021
         align: left
-        image: images/important-birch.PNG
+        image: images/SYSMED 10lpm (2).png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
