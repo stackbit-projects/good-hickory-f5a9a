@@ -57,7 +57,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: SYSMED Oxygen Concentrator - 10 LPM (Medical Grade)
+      - title: DYNMED Oxygen Concentrator - 10 LPM (Medical Grade)
         content: |
           *   Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
 
