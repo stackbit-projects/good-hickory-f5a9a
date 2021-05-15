@@ -6,7 +6,6 @@ categories:
 tags:
   - Jamstack
   - Netlify
-image: images/2.png
 image_alt: Post 2 placeholder image
 excerpt: >-
   Our inhouse technology teams aspires to digitalize each step of the supply
