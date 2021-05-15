@@ -5,6 +5,7 @@ sections:
     title: JUMAO 5 LPM Oxygen Concentrator
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
+    image: images/polite-iron.png
   - type: features_section
     features:
       - title: Feature 1
