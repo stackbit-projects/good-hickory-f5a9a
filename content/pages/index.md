@@ -70,7 +70,7 @@ sections:
         align: left
         image: images/DYNMED_10LPM.png
         image_alt: Feature 3 placeholder image
-        image_position: left
+        image_position: right
         actions:
           - label: Learn More
             url: /features
