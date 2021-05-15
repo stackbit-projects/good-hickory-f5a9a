@@ -58,10 +58,12 @@ sections:
             url: /features
             style: secondary
       - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: |
+          *   Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
+
+          *   Price and Availabity - 96,000 + GST;  Minimum - 15 units
+
+          *   Delivery -  31st May, 2021
         align: left
         image: images/DYNMED_10LPM.png
         image_alt: Feature 3 placeholder image
