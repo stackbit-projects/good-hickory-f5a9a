@@ -42,10 +42,14 @@ sections:
             url: /features
             style: secondary
       - title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          ##### **SYSMED Oxygen Concentrator - 10 LPM (Medical Grade)**
+
+          Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
+
+          Price and Availabity - 96,000 + GST;  Minimum - 15 units
+
+          ![](/images/SYSMED_CE_Certificate.png) 31st May 
         align: left
         image: images/Sysmed_1.PNG
         image_alt: Feature 2 placeholder image
