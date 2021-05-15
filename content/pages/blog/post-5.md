@@ -7,11 +7,6 @@ tags:
   - Netlify
 image: images/Souricng.PNG
 image_alt: Post 5 placeholder image
-excerpt: >-
-  Our exclusive alliances with Asia focused vendors have enabled our partners to
-  unlock the limitless potential of optimized and curated supply with cost
-  effectiveness, shortened lead times, reduced cost base and agile inventory
-  solutions.
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
