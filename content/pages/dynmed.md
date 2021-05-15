@@ -23,7 +23,7 @@ sections:
       - content: |
           ![](/images/smiling-saturn.png)
         align: left
-        image: images/knowledgeable-sycamore.png
+        image: images/robust-rabbit.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
