@@ -34,7 +34,7 @@ sections:
 
           ***
         align: left
-        image: images/JUMAO_3.PNG
+        image: images/Jumao_1.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
