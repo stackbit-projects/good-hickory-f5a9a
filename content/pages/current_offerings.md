@@ -17,7 +17,7 @@ sections:
       - content: |
           ![](/images/mighty-tortoise.png)
         align: left
-        image: images/incredible-saturn.png
+        image: images/great-triceratops.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
