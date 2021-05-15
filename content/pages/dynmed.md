@@ -20,7 +20,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
-        content: "*   Oxygen Density:\_93 +- 3%\n\n*   Sound Level:\_≤ 55db\n\n*   Flow Rate:\_10 L\\Min\n\n*   Nebulizer Particle : Percent 90% (Optimal)\n\n*   Filter:\_France CECA molecular sieve\n\n*   Net Weight:\_25 Kgs; Gross Weight:\_27 Kgs\n\n*   Display Screen:\_Large Scale LCD\n"
+        content: "*   Oxygen Density:\_93 +- 3%\n\n*   Sound Level:\_≤ 55db\n\n*   Flow Rate:\_10 L\\Min\n\n*   Filter:\_France CECA molecular sieve\n\n*   Net Weight:\_19.8 Kgs; Gross Weight:\_21.8 Kgs\n"
         title: 'Specifications '
       - content: |
           ![](/images/smiling-saturn.png)
