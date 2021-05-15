@@ -28,7 +28,7 @@ sections:
       - content: |
           ###### \*JUMAO Oxygen Concentrator - 5 LPM  (Ready Stock) \*
 
-          *   *93% + 3% *Oxygen Saturation
+          *   \*93% +- 3% \*Oxygen Saturation
 
           *   CE Certified
 
