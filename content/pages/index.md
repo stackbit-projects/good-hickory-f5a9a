@@ -44,11 +44,11 @@ sections:
         title: JUMAO 5 LPM - (Ready Stock)
       - title: SYSMED Oxygen Concentrator - 10 LPM (Medical Grade)
         content: |
-          Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
+          *   Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
 
-          Price and Availabity - 96,000 + GST;  Minimum - 15 units
+          *   Price and Availabity - 96,000 + GST;  Minimum - 15 units
 
-          Delivery -  31st May, 2021
+          *   Delivery -  31st May, 2021
         align: left
         image: images/SYSMED 10lpm.png
         image_alt: Feature 2 placeholder image
