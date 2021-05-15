@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: STRATEGIC SOURCING OF MEDICAL EQUIPEMNT
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Aligning Strategic relationships to organizational goals
     actions:
       - label: Learn More
         url: /features
