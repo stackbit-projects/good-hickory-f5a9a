@@ -39,6 +39,7 @@
         "has_social": true,
         "social_links": [],
         "links": [],
-        "type": "footer"
+        "type": "footer",
+        "content": "© 2021 Maxlife Health Enterprises Pvt Ltd. All Rights Reserved."
     }
 }
