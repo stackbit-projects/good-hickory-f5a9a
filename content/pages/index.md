@@ -28,7 +28,7 @@ sections:
       - content: |
           *   Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
 
-          *   Price and Availabity - 60,000 + GST;  Minimum - 10 units
+          *   Price and Availabity - **60,000 + GST**;  Minimum - 10 units
 
           *   Delivery - 19th May
 
