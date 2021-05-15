@@ -21,7 +21,7 @@ sections:
         image_position: left
         actions: []
         title: JUMAO 5 LPM Oxygen Concentrator
-      - title: lorem-ipsum
+      - title: Flowmeter
         content: >-
           ## Lorem ipsum
 
