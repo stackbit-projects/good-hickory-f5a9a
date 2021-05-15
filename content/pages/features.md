@@ -1,5 +1,5 @@
 ---
-title: Features
+title: 'JUMAO 5 LPM '
 sections:
   - type: hero_section
     title: Features
