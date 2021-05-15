@@ -13,8 +13,7 @@ sections:
         actions: []
         content: |
           Oxygen Saturation - 93% +- 3% at all flowrate (0.5 L - 5L)
-      - title: Feature 2
-        content: |
+      - content: |
           ![](/images/smart-lavender.png)
         align: left
         image: images/blue-amaranth.png
