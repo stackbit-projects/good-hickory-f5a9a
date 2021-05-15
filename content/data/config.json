@@ -40,14 +40,6 @@
         "social_links": [],
         "links": [
             {
-                "label": "Registered Address: Shop no 1, Royal Garden Apartment| Patna – 800001",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
