@@ -49,7 +49,7 @@ sections:
 
           Price and Availabity - 96,000 + GST;  Minimum - 15 units
 
-          ![](/images/SYSMED_CE_Certificate.png) 31st May 
+          Delivery -  31st May, 2021
         align: left
         image: images/Sysmed_1.PNG
         image_alt: Feature 2 placeholder image
