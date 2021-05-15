@@ -42,7 +42,7 @@ sections:
             url: /features
             style: secondary
           - label: lorem-ipsum
-            url: '#'
+            url: '#/features'
             style: link
             new_window: false
             no_follow: false
