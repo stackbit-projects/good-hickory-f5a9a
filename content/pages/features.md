@@ -1,5 +1,5 @@
 ---
-title: 'JUMAO 5 LPM '
+title: JUMAO 10 LPM Oxygen Concentrator
 sections:
   - type: hero_section
     title: Features
