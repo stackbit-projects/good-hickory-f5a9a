@@ -51,7 +51,7 @@ sections:
 
           Delivery -  31st May, 2021
         align: left
-        image: images/Sysmed_1.PNG
+        image: images/SYSMED 10lpm.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
