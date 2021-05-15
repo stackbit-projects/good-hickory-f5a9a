@@ -12,7 +12,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
-        content: "*   Oxygen Density:\_93 +- 3%\n\n*   Sound Level:\_≤ 55db\n\n*   Flow Rate:\_10 L\\Min\n\n*   Nebulizer Particle : Percent 90% (Optimal)\n\n*   Filter:\_France CECA molecular sieve\n\n*   Net Weight:\_25 Kgs; Gross Weight:\_27 Kgs\n\n*   Display Screen:\_Large Scale LCD\n\n*   CE Certified\n"
+        content: "\n\n*   Medical Grade Oxygen Concentraor, US product\n\n*   Oxygen Density:\_93 +- 3%\n\n*   Sound Level:\_≤ 55db\n\n*   Flow Rate:\_10 L\\Min\n\n*   CE Certified\n"
         title: SYSMED 10 LPM Oxygen Concentrator
       - content: |
           ![](/images/mighty-tortoise.png)
