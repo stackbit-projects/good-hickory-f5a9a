@@ -53,7 +53,7 @@ sections:
 
           *   Delivery -  31st May, 2021
         align: left
-        image: images/parallel-planet.png
+        image: images/sysmed_new_1.PNG
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
