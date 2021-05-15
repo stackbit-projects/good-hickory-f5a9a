@@ -18,7 +18,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
-        content: "*   Oxygen Density:\_93 +- 3%\n\n*   Sound Level:\_≤ 55db\n\n*   Flow Rate:\_10 L\\Min\n\n*   Filter:\_France CECA molecular sieve\n\n*   Net Weight:\_19.8 Kgs; Gross Weight:\_21.8 Kgs\n\n*   CE  Certified\n"
+        content: "*   Oxygen Density:\_93 +- 3%\n\n*   Sound Level:\_≤ 55db\n\n*   Flow Rate:\_10 L\\Min\n\n*   CE  Certified\n\n*   6 Months of After Sales\n\n*   Bulk Purchase Only \n\n*   Shipping Pan India\n"
         title: SYSMED 10 LPM Oxygen Concentrators
       - content: |
           ![](/images/smiling-saturn.png)
