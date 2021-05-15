@@ -1,5 +1,5 @@
 ---
-title: Spare parts
+title: Service and Repair
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
