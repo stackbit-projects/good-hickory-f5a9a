@@ -58,7 +58,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /synmed
+            url: /dynmed
             style: primary
             new_window: false
             no_follow: false
