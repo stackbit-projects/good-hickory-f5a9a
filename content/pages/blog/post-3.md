@@ -5,7 +5,7 @@ categories: []
 tags:
   - Stackbit
   - JAMstack
-image: images/3.png
+image: images/reapir.PNG
 image_alt: Post 3 placeholder image
 excerpt: >-
   NIVAID provides fast and affordable repair and maintenance for all of the top
