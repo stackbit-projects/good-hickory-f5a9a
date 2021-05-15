@@ -7,7 +7,6 @@ categories:
 tags:
   - JAMstack
   - Sourcebit
-image: images/4.png
 image_alt: Post 4 placeholder image
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
