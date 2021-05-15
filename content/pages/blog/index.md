@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Our Services
 sections:
   - type: hero_section
     title: Blog
