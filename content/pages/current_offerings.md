@@ -37,17 +37,17 @@ sections:
         actions: []
         type: feature
       - title: Finger Tip Pulse Oximeters
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Measures quickly and accurately pulse rate and SPO2 blood oxygen
+          saturation of arterial hemoglobin levels. Accurately determine your
+          SPO2 (blood oxygen saturation levels), fast SPO2 readings, pulse
+          measurements and display it conveniently on a large digital bright led
+          display
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          ![](/images/Pulse%20oximeter.PNG)
         align: left
         image_alt: lorem-ipsum
         image_position: left
