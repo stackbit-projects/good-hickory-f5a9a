@@ -14,10 +14,8 @@ sections:
         content: |
           Oxygen Saturation - 93% +- 3% at all flowrate (0.5 L - 5L)
       - title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |2
+           
         align: left
         image: images/blue-amaranth.png
         image_alt: Feature 2 placeholder image
