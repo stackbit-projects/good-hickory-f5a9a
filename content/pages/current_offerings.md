@@ -20,6 +20,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
+        title: JUMAO 5 LPM Oxygen Concentrator
 seo:
   title: Features
   description: This is the features page
