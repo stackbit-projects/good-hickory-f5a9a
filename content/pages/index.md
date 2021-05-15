@@ -34,7 +34,7 @@ sections:
 
           ***
         align: left
-        image: images/oval-oak.png
+        image: images/JUMAO_new_1.PNG
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
