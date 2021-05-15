@@ -61,7 +61,7 @@ sections:
         content: |
           *   Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
 
-          *   Price and Availabity - 96,000 + GST;  Minimum Purchase - 30 units
+          *   Price and Purchase Qty- 96,000 + GST;  Minimum Qty- 30 units
 
           *   Delivery -  5th June, 2021
         align: left
