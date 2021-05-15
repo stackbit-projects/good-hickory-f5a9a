@@ -41,12 +41,6 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            new_window: false
-            no_follow: false
-            type: action
         title: JUMAO 5 LPM - (Ready Stock)
       - title: SYSMED 10 LPM - US Product
         content: >
