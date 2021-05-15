@@ -4,13 +4,7 @@ sections:
   - type: hero_section
     title: COVID Related Offerings
     align: center
-    subtitle: >-
-      With the onset of 2nd wave of COVID in India, NIVAID diversified its focus
-      to mitigate the supply issue of COVID related commodities. It partnered
-      with various top manufactureres of Europe, Singapore and China such as
-      Fosun Pharam for medical equipment sourcing directly from the
-      manufacturing unit thereby enabling infra availability at an optimized
-      price and of superior quality.
+    subtitle: "With the onset of 2nd wave of COVID in India, NIVAID diversified its focus to mitigate the supply issue of COVID related commodities. It partnered with various top manufactureres of Europe, Singapore and China such as Fosun Pharam for medical equipment sourcing directly from the manufacturing unit thereby enabling access to COVID related 'superior quality'\_commodities at the Indian market at an optimized price"
   - type: features_section
     features:
       - align: left
