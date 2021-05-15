@@ -5,7 +5,7 @@ categories: []
 tags:
   - Stackbit
   - Netlify
-image: images/5.png
+image: images/Souricng.PNG
 image_alt: Post 5 placeholder image
 excerpt: >-
   Our exclusive alliances with Asia focused vendors have enabled our partners to
