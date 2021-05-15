@@ -68,7 +68,7 @@ sections:
 
           *   Delivery -  5th June, 2021
         align: left
-        image: images/DYNMED_10LPM.png
+        image: images/DYNMED_1.png
         image_alt: DYNMED
         image_position: right
         actions:
