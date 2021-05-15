@@ -9,7 +9,7 @@ sections:
       the country, our focus has recently diversified to mitigate the supply
       issue of COVID related commodities by sourcing directly from the top
       manufacturing units of Europe and China such as Fosun Pharma, thereby
-      enabling significant cost reduction and high quality certified medical
+      enabling significant cost reduction and high quality standardized medical
       equipment
   - type: features_section
     features:
