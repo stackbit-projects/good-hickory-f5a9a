@@ -5,14 +5,12 @@ sections:
     title: COVID Related Offerings
     align: center
     subtitle: >-
-      This Oxygen Concentrator is a type of medical device used for delivering
-      oxygen to individuals with breathing-related disorders. Individuals whose
-      oxygen concentration in their blood is lower than normal often require an
-      oxygen concentrator to replace that oxygen. It could be applied widely in
-      the hospitals at all different levels, clinics, health centers, and family
-      nursing, health care for the old person, mental workers and students, etc.
-      The home oxygen concentrator can supply 1 patient, with steady oxygen
-      flowing out, safe and reliable, low cost, adjustable flow.
+      With the onset of 2nd wave of COVID in India, NIVAID diversified its focus
+      to mitigate the supply issue of COVID related commodities. It partnered
+      with various top manufactureres of Europe, Singapore and China such as
+      Fosun Pharam for medical equipment sourcing directly from the
+      manufacturing unit thereby enabling infra availability at an optimized
+      price and of superior quality.
   - type: features_section
     features:
       - align: left
