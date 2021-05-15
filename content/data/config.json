@@ -34,7 +34,7 @@
     },
     "domain": "https://good-hickory-f5a9a.netlify.app",
     "footer": {
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [],
         "has_social": true,
         "social_links": [],
