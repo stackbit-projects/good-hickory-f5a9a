@@ -2,9 +2,6 @@
 categories:
   - content/data/categories/general.yaml
 image_alt: Post 1 placeholder image
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
 seo:
   title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
