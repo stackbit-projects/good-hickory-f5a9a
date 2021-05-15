@@ -1,5 +1,5 @@
 ---
-title: Supply Chain Management
+title: Sourcing and Distribution Solutions
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
