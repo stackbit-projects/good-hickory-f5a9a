@@ -2,7 +2,7 @@
 title: JUMAO 5 LPM Oxygen Concentrator
 sections:
   - type: hero_section
-    title: JUMAO 5 LPM - Oxygen Concentrator
+    title: SYSMED 10 LPM - Oxygen Concentrator
     align: center
     subtitle: >-
       This Jumao Oxygen Concentrator is a type of medical device used for
