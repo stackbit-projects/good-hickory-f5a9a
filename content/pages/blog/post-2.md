@@ -10,8 +10,10 @@ tags:
 image: images/2.png
 image_alt: Post 2 placeholder image
 excerpt: >-
-  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
-  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
+  Our inhouse technology teams aspires to digitalize each step of the supply
+  chain so data can flow seamlessly, providing end-to-end visibility for all
+  stakeholders, enabling our customers to stay ahead of the disruption at retail
+  across the entire value chain.
 seo:
   title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
   description: Quae diligentissime contra Aristonem dicuntur a Chryippo
