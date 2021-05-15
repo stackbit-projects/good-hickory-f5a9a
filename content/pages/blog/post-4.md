@@ -2,7 +2,6 @@
 date: '2019-06-07'
 categories:
   - content/data/categories/tutorials.yaml
-  - content/data/categories/news.yaml
 tags:
   - JAMstack
   - Sourcebit
