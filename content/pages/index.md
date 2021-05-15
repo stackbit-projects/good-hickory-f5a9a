@@ -44,8 +44,8 @@ sections:
         title: JUMAO 5 LPM - (Ready Stock)
       - title: SYSMED 10 LPM - Medical Grade
         content: >
-          *   Specifications - 93% +- 3%; Oxygen Saturation; CE Certified;
-          Medical Grade
+          *   Specifications - 93% +- 3%; Oxygen Saturation; CE Certified; US
+          Based 
 
 
           *   Price and Availabity - **96,000 + GST;**  Minimum - 15 units
