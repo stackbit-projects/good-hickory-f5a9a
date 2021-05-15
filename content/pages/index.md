@@ -23,7 +23,7 @@ sections:
       background_image_repeat: no-repeat
       background_image: images/fabulous-plankton.jpeg
   - type: features_section
-    title: Current Offerings - Oxygen Concentrators
+    title: Current Offerings
     features:
       - content: |
           *   Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
