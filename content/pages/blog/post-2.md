@@ -1,7 +1,6 @@
 ---
 title: NIVIAD Digital Platform
 date: '2020-05-25'
-author: content/data/team/miles-tone.yaml
 categories:
   - content/data/categories/general.yaml
 tags:
