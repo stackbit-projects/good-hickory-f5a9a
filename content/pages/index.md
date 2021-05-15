@@ -28,13 +28,9 @@ sections:
       - content: |
           ###### \*JUMAO Oxygen Concentrator - 5 LPM  (Ready Stock) \*
 
-          *   \*93% +- 3% \*Oxygen Saturation
+          Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified; 
 
-          *   CE Certified
-
-          *   Bulk Purchase Only - (Min. 20 units)
-
-          *   Price - 60 K + GST
+          Price and Availabity - 60,000 + GST;  Minimum - 10 units
 
           ***
         align: left
