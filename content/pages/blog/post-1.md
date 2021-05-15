@@ -1,5 +1,4 @@
 ---
-date: '2020-04-16'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/general.yaml
