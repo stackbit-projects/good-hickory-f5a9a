@@ -36,7 +36,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: Finger Tip Pulse Oximeters
         content: >-
           ## Lorem ipsum
 
