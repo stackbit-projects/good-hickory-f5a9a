@@ -57,7 +57,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: /sysmed
             style: primary
             new_window: false
