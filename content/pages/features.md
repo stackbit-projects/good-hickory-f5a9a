@@ -10,10 +10,7 @@ sections:
         image: images/cool-daffodil.png
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /about
-            style: primary
+        actions: []
         content: |
           Oxygen Saturation - 93% +- 3% at all flowrate (0.5 L - 5L)
       - title: Feature 2
