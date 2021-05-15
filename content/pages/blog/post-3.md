@@ -8,10 +8,12 @@ tags:
   - JAMstack
 image: images/3.png
 image_alt: Post 3 placeholder image
-excerpt: |-
-  Altra Service
-  provides fast and affordable repair and maintenance for all of the U.S. We
+excerpt: >-
+  NIVAID provides fast and affordable repair and maintenance for all of the top
+  cities in India. We
+
   service most CPAP machines, oxygen concentrators, POC's, and much more. Our
+
   factory trained technicians are certified and we offer a free shipping label.
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
