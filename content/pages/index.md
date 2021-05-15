@@ -26,9 +26,7 @@ sections:
     title: COVID - Oxygen Concentrators
     features:
       - content: |
-          ###### \*JUMAO Oxygen Concentrator - 5 LPM  (Ready Stock) \*
-
-          Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified; 
+          Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
 
           Price and Availabity - 60,000 + GST;  Minimum - 10 units
 
