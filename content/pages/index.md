@@ -67,7 +67,7 @@ sections:
           *   Price and Purchase Qty- 96,000 + GST;  Minimum Qty- 30 units
 
           *   Delivery -  5th June, 2021
-        align: right
+        align: left
         image: images/DYNMED_10LPM.png
         image_alt: DYNMED
         image_position: right
