@@ -41,5 +41,3 @@ excerpt: >-
   solutions. Our China-focussed multi-channel sales access provides turnkey
   distribution solutions for our supply partners.
 ---
-Our exclusive alliances with Asia focused vendors have enabled our partners to unlock the limitless potential of optimized and curated supply with cost effectiveness, shortened lead times, reduced cost base and agile inventory solutions. Our China-focussed multi-channel sales access provides turnkey distribution solutions for our supply partners.
-
