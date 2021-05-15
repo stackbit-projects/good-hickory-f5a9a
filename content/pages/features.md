@@ -6,8 +6,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Feature 1
-        align: left
+      - align: left
         image: images/cool-daffodil.png
         image_alt: Feature 1 placeholder image
         image_position: right
