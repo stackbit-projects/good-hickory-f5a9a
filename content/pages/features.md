@@ -3,7 +3,6 @@ title: JUMAO 5 LPM Oxygen Concentrator
 sections:
   - type: hero_section
     title: JUMAO 5 LPM - Oxygen Concentrator
-    subtitle: 'Oxygen Concentrator '
     align: center
   - type: features_section
     features:
