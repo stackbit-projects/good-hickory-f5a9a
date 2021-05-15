@@ -48,7 +48,7 @@ sections:
           Medical Grade
 
 
-          *   Price and Availabity - 96,000 + GST;  Minimum - 15 units
+          *   Price and Availabity - **96,000 + GST;**  Minimum - 15 units
 
 
           *   Delivery -  31st May, 2021
