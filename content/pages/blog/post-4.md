@@ -36,6 +36,11 @@ seo:
       value: images/4.png
       relativeUrl: true
 layout: post
+excerpt: >-
+  We  provides fast and affordable repair and maintenance for all of top cities
+  in India. We service most oxygen concentrators,CPAP machines, POC's, and much
+  more. Our factory trained technicians are certified and we offer a free
+  shipping label.
 ---
 We  provides fast and affordable repair and maintenance for all of top cities in India. We service most oxygen concentrators,CPAP machines, 
 POC's, and much more. Our factory trained technicians are certified and we offer a free shipping label.
