@@ -14,7 +14,7 @@ sections:
   - type: features_section
     features:
       - align: left
-        image: images/rainy-jupiter.PNG
+        image: images/unique-onion.PNG
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
