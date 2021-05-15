@@ -59,7 +59,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-            style: secondary
+            style: primary
       - title: DYNMED 10 LPM
         content: |
           *   Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
