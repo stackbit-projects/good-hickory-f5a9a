@@ -41,12 +41,6 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-          - label: Learn More
-            style: primary
-            new_window: false
-            no_follow: false
-            type: action
-            url: 'https://app.stackbit.com/studio/609f5a9aed646200164adf70#/dynmed'
           - label: lorem-ipsum
             url: '#/features'
             style: link
