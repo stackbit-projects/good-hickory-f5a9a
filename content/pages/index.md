@@ -42,7 +42,7 @@ sections:
             url: /features
             style: secondary
           - label: Learn More
-            url: '#'
+            url: /sysmed
             style: primary
             new_window: false
             no_follow: false
