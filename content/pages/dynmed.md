@@ -11,7 +11,7 @@ sections:
       oxygen concentrator to replace that oxygen. It could be applied widely in
       the hospitals at all different levels, clinics, health centers, and family
       nursing, health care for the old person, mental workers and students, etc.
-      The home oxygen concentrator can supply 1 patient, with steady oxygen
+      The home oxygen concentrator can supply 5 patients, with steady oxygen
       flowing out, safe and reliable, low cost, adjustable flow.
   - type: features_section
     features:
