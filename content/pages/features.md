@@ -11,8 +11,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
-        content: |
-          Oxygen Saturation - 93% +- 3% at all flowrate (0.5 L - 5L)
+        content: "Brand Name:\_Jumao\nOxygen Density:\_93%±3%\nSound Level:\_≤ 46db\nFlow Rate:\_5 L\\Min\nPower Consumption:\_390VA\nMolecular Sieve:\_Li-X, High 13X\nFilter:\_France CECA molecular sieve\nNet Weight:\_16 Kgs\nGross Weight:\_18 Kgs\nPackage Size:\_33 cms X 26 cms X 54 cms\nCompressor Warranty:\_10,000 Hours\n\n\n\n\n"
         title: 'Specifications '
       - content: |
           ![](/images/smart-lavender.png)
