@@ -21,7 +21,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
-        content: "\n\n*   Oxygen Density:\_93%±3%\n\n*   Sound Level:\_≤ 46db\n\n*   Flow Rate:\_5 L\\Min\n\n*   Molecular Sieve:\_Li-X, High 13X\n\n*   Filter:\_France CECA molecular sieve\n\n*   Net Weight:\_16 Kgs; Gross Weight:\_18 Kgs\n\n*   Compressor Warranty:\_10,000 Hours\n"
+        content: "\n\n*   Oxygen Density:\_93undefined\n\n*   Sound Level:\_≤ 46db\n\n*   Flow Rate:\_5 L\\Min\n\n*   Molecular Sieve:\_Li-X, High 13X\n\n*   Filter:\_France CECA molecular sieve\n\n*   Net Weight:\_16 Kgs; Gross Weight:\_18 Kgs\n\n*   Compressor Warranty:\_10,000 Hours\n"
         title: 'Specifications '
       - content: |
           ![](/images/smart-lavender.png)
