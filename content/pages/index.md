@@ -5,9 +5,6 @@ sections:
     title: 'Sourcing Medical Devices '
     subtitle: Aligning Strategic relationships to organizational goals
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
