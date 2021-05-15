@@ -43,8 +43,6 @@ sections:
             style: secondary
       - title: Feature 2
         content: |
-          ##### **SYSMED Oxygen Concentrator - 10 LPM (Medical Grade)**
-
           Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
 
           Price and Availabity - 96,000 + GST;  Minimum - 15 units
