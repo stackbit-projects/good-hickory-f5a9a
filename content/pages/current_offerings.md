@@ -24,7 +24,8 @@ sections:
       - title: Flowmeter with Humdified and Regulator
         content: >
           Specially Designed Metal Knob; Poly Carbonate Bottle ;  Specialy Made
-          spindle for fine adjustment; Adjustable reductor
+          spindle for fine adjustment; Adjustable reductor; Used At
+          Hospitals,Nursing Homes,Home Care Patients.
 
 
 
