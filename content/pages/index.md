@@ -38,7 +38,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-        title: JUMAO 5 LPM - (Ready Stock)
+        title: JUMAO 5 LPM
       - title: SYSMED 10 LPM - Medical Grade
         content: >
           *   Specifications - 93% +- 3%; Oxygen Saturation; CE Certified; US
