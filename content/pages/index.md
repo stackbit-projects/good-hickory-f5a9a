@@ -27,8 +27,6 @@ sections:
 
           *   Price and Availabity - **60,000 + GST**;  Minimum - 10 units
 
-          *   Delivery - 19th May
-
           ***
         align: left
         image: images/JUMAO_new_1.PNG
