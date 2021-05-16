@@ -106,7 +106,10 @@ sections:
         type: feature
       - title: KRISON Nebulizer
         content: >
-          Price - Rs 2,000 + GST
+          *   Price - Rs 2,000 + GST
+
+
+          <!---->
 
 
           *  
