@@ -23,9 +23,15 @@ sections:
     title: Current Offerings
     features:
       - content: |
-          *   Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
+          *   Specifications - 93% +- 3% Oxygen Saturation at all flow rates
 
-          *   Price and Availabity - **60,000 + GST**;  Minimum - 10 units
+          *   Certifications - CE, FDA approved
+
+          *   Price and Availabity - **60,000 + GST**
+
+          *   Minimum Quantity for Delivery - 10 units
+
+          *To place order, contact us directly*
 
           ***
         align: left
