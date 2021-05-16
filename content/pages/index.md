@@ -31,7 +31,7 @@ sections:
 
           *   Minimum Quantity for Delivery - 10 units
 
-          *To place order, contact us directly*
+          *To place order, please contact us directly*
 
           ***
         align: left
