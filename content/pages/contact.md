@@ -1,7 +1,7 @@
 ---
 title: Contact
 sections:
-  - title: Get in To
+  - title: Contact Us
     content: >-
       ## Lorem ipsum
 
