@@ -23,7 +23,7 @@ sections:
       - content: |
           ![](/images/terrific-strawberry.png)
         align: left
-        image: images/robust-rabbit.png
+        image: images/marvelous-steel.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
