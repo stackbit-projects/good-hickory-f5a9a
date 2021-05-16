@@ -44,7 +44,7 @@ sections:
             style: secondary
         title: JUMAO 5 LPM
       - title: SYSMED 10 LPM - Medical Grade
-        content: |+
+        content: |
           *   Specifications - 93% +- 3% Oxygen Saturation at all flow rates
 
           *   Certifications - CE, FDA approved
@@ -53,8 +53,7 @@ sections:
 
           *   Minimum Quantity for Delivery - 10 units
 
-
-
+          *To place order, please contact us *
         align: left
         image: images/sysmed_new_1.PNG
         image_alt: Feature 2 placeholder image
