@@ -66,12 +66,15 @@ sections:
             no_follow: false
             type: action
       - title: DYNMED 10 LPM
-        content: |
-          *   Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
+        content: >
+          *   Specifications - 93% +- 3% \*Oxygen Saturation at all flow rates
 
-          *   Price and Purchase Qty- **96,000 + GST**;  Minimum Qty- 15units
 
-          *   Delivery -  5th June, 2021
+          *   Certifications - CE, FDA approved*   Price and Availabity -
+          **96,000 + GST***   Minimum Quantity for Delivery - 10 units
+
+
+          *To place order, please contact us directly*
         align: left
         image: images/incredible-hedgehog.PNG
         image_alt: DYNMED
