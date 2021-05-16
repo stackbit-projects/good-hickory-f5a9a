@@ -14,6 +14,7 @@ sections:
       workers and students, etc. The home oxygen concentrator can supply 1
       patient, with steady oxygen flowing out, safe and reliable, low cost,
       adjustable flow.
+    has_background: true
   - type: features_section
     features:
       - align: left
