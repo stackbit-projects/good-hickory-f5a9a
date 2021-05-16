@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: 'Sourcing Medical Devices '
-    subtitle: Aligning Strategic relationships to organizational goals
     actions:
       - label: Contact Us
         url: /contact
