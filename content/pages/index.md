@@ -85,17 +85,20 @@ sections:
             url: /dynmed
             style: secondary
       - title: Para Monitors
-        content: >-
-          ## Lorem ipsum
+        content: >
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Industrial Grade Paramonitor 
 
 
-          - Lorem ipsum
+          *   Price - Rs 52,000 + GST
 
-          - dolor sit amet
+
+          <!---->
+
+
+          *  
+          ![](/images/WhatsApp%20Image%202021-05-16%20at%2011.31.44%20AM.jpeg)
         align: left
         image_alt: lorem-ipsum
         image_position: left
