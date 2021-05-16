@@ -105,17 +105,12 @@ sections:
         actions: []
         type: feature
       - title: Flowmeter with Humidifier and Regulator
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Price - Rs 2,000 + GST
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *  
+          ![](/images/WhatsApp%20Image%202021-05-16%20at%201.41.59%20PM.jpeg)
         align: left
         image_alt: lorem-ipsum
         image_position: left
