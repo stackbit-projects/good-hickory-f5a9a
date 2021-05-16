@@ -1,7 +1,6 @@
 ---
 title: Contact
 sections:
-  - type: contact_section
   - title: Contact
     content: >+
       You can email us at ** info.nivaid@gmail.com**  or  connect with us on 
