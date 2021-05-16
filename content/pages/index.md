@@ -84,7 +84,7 @@ sections:
           - label: Learn More
             url: /dynmed
             style: secondary
-      - title: 5 LPM
+      - title: K5BW 5 LPM Oxygen Concentrator
         content: >-
           ## Lorem ipsum
 
