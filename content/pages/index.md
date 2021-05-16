@@ -61,7 +61,7 @@ sections:
         actions:
           - label: Learn More
             url: /synmed
-            style: primary
+            style: secondary
             new_window: false
             no_follow: false
             type: action
