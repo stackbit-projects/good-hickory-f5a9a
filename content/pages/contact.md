@@ -4,7 +4,7 @@ sections:
   - title: Get in Touch
     content: >
       You can contact us for your orders and queries on
-      **info.nivaid@gmail.com** or +**91-62944-24776.**
+      **info.nivaid@gmail.com** or whatsapp us +**91-62944-24776.**
     type: content_section
 seo:
   title: Contact
