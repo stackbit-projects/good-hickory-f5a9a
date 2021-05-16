@@ -104,7 +104,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: Flowmeter with Humidifier and Regulator
+      - title: KRISON Nebulizer
         content: >
           Price - Rs 2,000 + GST
 
