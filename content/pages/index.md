@@ -90,7 +90,7 @@ sections:
         content: |
           *   Medical Grade with 93% +- 3% Oxygen Saturation
 
-          *   CE , ISO Certified 
+          *   CE , ISO Certified, WHO Standard Specs
 
           *   Price - Rs 74,000 + GST
 
