@@ -24,16 +24,22 @@ sections:
   - type: features_section
     title: Current Availability
     features:
-      - content: |
+      - content: >
           *   Specifications - 93% +- 3% Oxygen Saturation at all flow rates
+
 
           *   CE Certified, FDA approved, WHO Standard Specs
 
+
           *   Price and Availabity - **60,000 + GST**
+
 
           *   Minimum Quantity for Delivery - 10 units
 
-          *To place order, please contact us directly*
+
+          *To place order, please *[*contact
+          us*](https://good-hickory-f5a9a.netlify.app/contact/)* directly*
+
 
           ***
         align: left
