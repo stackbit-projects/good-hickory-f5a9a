@@ -2,8 +2,9 @@
 title: Contact
 sections:
   - title: Contact Us
-    content: |2
-              You can email us at 
+    content: |
+      ```
+      ```
     type: content_section
 seo:
   title: Contact
