@@ -1,7 +1,7 @@
 ---
 title: Contact
 sections:
-  - title: Contact
+  - title: Contact Us
     content: >+
       You can email us at ** info.nivaid@gmail.com**  or  connect with us on 
       **+91-62944-24776**
