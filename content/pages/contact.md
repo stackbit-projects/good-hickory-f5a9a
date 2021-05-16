@@ -3,7 +3,7 @@ title: Contact
 sections:
   - title: Contact Us
     content: |2
-          You can email us at 
+          You can email us at infor@
     type: content_section
 seo:
   title: Contact
