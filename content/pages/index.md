@@ -18,7 +18,7 @@ sections:
       background_image_size: auto
       background_image_repeat: no-repeat
       background_image: images/fabulous-plankton.jpeg
-    subtitle: Enabling S
+    subtitle: Enabling Cross Border supply of COV
   - type: features_section
     title: Current Offerings
     features:
