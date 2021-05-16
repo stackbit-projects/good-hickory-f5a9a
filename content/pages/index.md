@@ -106,7 +106,11 @@ sections:
         content: |
           *   Industrial Grade Paramonitor
 
+          *   CE Certified, ISO Approved
+
           *   Price - Rs 52,000 + GST
+
+          *   Minimum Quantity for Delivery - 10 units
 
           ![](/images/WhatsApp%20Image%202021-05-16%20at%2011.31.44%20AM.jpeg)
         align: left
