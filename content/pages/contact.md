@@ -5,7 +5,7 @@ sections:
     title: Contact
     align: center
   - type: contact_section
-  - title: lorem-ipsum
+  - title: Contact
     content: >+
       You can email us at ** info.nivaid@gmail.com**  or  connect with us on 
       **+91-62944-24776**
