@@ -2,17 +2,9 @@
 title: Contact
 sections:
   - title: Get in Touch
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      You can contact us for your queries, orders and feedback on
+      **info.nivaid@gmail.com** or +**91-62944-24776.**
     type: content_section
 seo:
   title: Contact
