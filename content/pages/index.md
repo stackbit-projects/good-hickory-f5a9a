@@ -90,7 +90,7 @@ sections:
 
           *   Price - Rs 74,000 + GST
 
-          To place order, please contact us directly.
+          *To place order, please contact us directly.*
 
           ![](/images/WhatsApp%20Image%202021-05-15%20at%2011.11.51%20PM.jpeg)
         align: left
