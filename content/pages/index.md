@@ -25,7 +25,7 @@ sections:
       - content: |
           *   Specifications - 93% +- 3% Oxygen Saturation at all flow rates
 
-          *   Certifications - CE, FDA approved
+          *   CE Certified, FDA approved
 
           *   Price and Availabity - **60,000 + GST**
 
