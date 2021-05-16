@@ -14,7 +14,7 @@ sections:
   - type: features_section
     features:
       - align: left
-        image: images/unique-onion.PNG
+        image: images/dynmed_oc_1.PNG
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
