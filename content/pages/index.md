@@ -53,7 +53,7 @@ sections:
 
           *   Minimum Quantity for Delivery - 10 units
 
-          *To place order, please contact us *
+          *To place order, please contact us directly*
         align: left
         image: images/sysmed_new_1.PNG
         image_alt: Feature 2 placeholder image
