@@ -19,7 +19,7 @@ sections:
       background_image_repeat: no-repeat
       background_image: images/fabulous-plankton.jpeg
     subtitle: >-
-      Cross Border Solutions for quality Life Saving commodities such as Oxygen
+      Cross Border Solutions for quality life saving commodities such as Oxygen
       Concentrators, Para Monitors, Nebulizer etc..
   - type: features_section
     title: Current Offerings
