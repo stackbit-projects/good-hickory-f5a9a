@@ -84,7 +84,7 @@ sections:
           - label: Learn More
             url: /dynmed
             style: secondary
-      - title: lorem-ipsum
+      - title: Para Monitors
         content: >-
           ## Lorem ipsum
 
