@@ -19,7 +19,7 @@ sections:
       background_image_repeat: no-repeat
       background_image: images/fabulous-plankton.jpeg
     subtitle: >-
-      Cross Border Solutions for WHO Standards life saving commodities such as
+      Supply Chain Solutions for top quality life saving commodities such as
       Oxygen Concentrators, Para Monitors etc...
   - type: features_section
     title: Current Availability
