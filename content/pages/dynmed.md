@@ -5,12 +5,15 @@ sections:
     title: COVID Related Commodities
     align: center
     subtitle: >-
-      Due to the surge in COVID cases and shortage of medical equipment across
-      the country, our focus has recently diversified to mitigate the supply
-      issue of COVID related commodities by sourcing directly from the top
-      manufacturing units of Europe and China such as Fosun Pharma, thereby
-      enabling significant cost reduction and high quality standardized, tested
-      and certifie equipment
+      This Jumao Oxygen Concentrator is a type of medical device used for
+      delivering oxygen to individuals with breathing-related disorders.
+      Individuals whose oxygen concentration in their blood is lower than normal
+      often require an oxygen concentrator to replace that oxygen. It could be
+      applied widely in the hospitals at all different levels, clinics, health
+      centers, and family nursing, health care for the old person, mental
+      workers and students, etc. The home oxygen concentrator can supply 5
+      patients, with steady oxygen flowing out, safe and reliable, low cost,
+      adjustable flow.
   - type: features_section
     features:
       - align: left
