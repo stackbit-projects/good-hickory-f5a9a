@@ -2,13 +2,9 @@
 title: Contact
 sections:
   - title: Contact Us
-    content: |+
-      You can connect with us on: 
-
-      **Email:**  info.nivaid@gmail.com
-
-      **Cell:** +91-62944-24776 
-
+    content: >
+      You can connect with us on  **email:**  info.nivaid@gmail.com  or 
+      **cell:** +91-62944-24776
     type: content_section
 seo:
   title: Contact
