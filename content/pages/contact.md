@@ -3,7 +3,7 @@ title: Contact
 sections:
   - title: Get in Touch
     content: >
-      You can contact us for your queries, orders and feedback on
+      You can contact us for your orders and queries on
       **info.nivaid@gmail.com** or +**91-62944-24776.**
     type: content_section
 seo:
