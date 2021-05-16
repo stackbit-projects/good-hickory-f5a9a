@@ -1,10 +1,6 @@
 ---
 title: Contact
-sections:
-  - title: Contact Us
-    content: |2
-          You can connect with us on  
-    type: content_section
+sections: []
 seo:
   title: Contact
   description: This is the contact page
