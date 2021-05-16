@@ -2,17 +2,13 @@
 title: Contact
 sections:
   - title: Contact Us
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      You can connect with us on: 
 
+      **Email:**  info.nivaid@gmail.com
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      **Cell:** +91-62944-24776 
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
     type: content_section
 seo:
   title: Contact
