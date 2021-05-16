@@ -18,7 +18,6 @@ sections:
       background_image_size: auto
       background_image_repeat: no-repeat
       background_image: images/fabulous-plankton.jpeg
-    subtitle: Cross Border supply of CO
   - type: features_section
     title: Current Offerings
     features:
