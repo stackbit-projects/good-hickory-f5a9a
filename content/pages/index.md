@@ -88,7 +88,11 @@ sections:
         content: |
           *   Medical Grade with 93% +- 3% Oxygen Saturation
 
+          *   CE , ISO Certified 
+
           *   Price - Rs 74,000 + GST
+
+          *   Minimum Quantity for Delivery - 10 units
 
           *To place order, please contact us directly.*
 
