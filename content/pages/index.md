@@ -22,7 +22,7 @@ sections:
       Cross Border Solutions for quality life saving commodities such as Oxygen
       Concentrators, Para Monitors, Nebulizer etc..
   - type: features_section
-    title: Current Offerings
+    title: Current Availability
     features:
       - content: |
           *   Specifications - 93% +- 3% Oxygen Saturation at all flow rates
