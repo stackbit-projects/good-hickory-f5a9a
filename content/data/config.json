@@ -22,7 +22,7 @@
             }
         ]
     },
-    "domain": "https://good-hickory-f5a9a.netlify.app",
+    "domain": "https://nivaidinfra.netlify.app",
     "footer": {
         "has_nav": true,
         "nav_links": [],
@@ -38,5 +38,6 @@
         ],
         "type": "footer",
         "content": "Registered Address: #1, Royal Garden Apartment| Patna – 800001                                                                        Email: info.nivaid@gmail.com| Contact: +91-9560040397"
-    }
+    },
+    "favicon": "images/dynmed_oc_3.PNG"
 }
