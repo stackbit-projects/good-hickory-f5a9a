@@ -105,14 +105,11 @@ sections:
         actions: []
         type: feature
       - title: KRISON Nebulizer
-        content: >
+        content: |
           *   Price - Rs 2,000 + GST
 
 
-          <!---->
 
-
-          *  
           ![](/images/WhatsApp%20Image%202021-05-16%20at%201.41.59%20PM.jpeg)
         align: left
         image_alt: lorem-ipsum
