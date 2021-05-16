@@ -60,7 +60,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: 'https://app.stackbit.com/studio/609f5a9aed646200164adf70#/synmed/'
+            url: /s
             style: primary
             new_window: false
             no_follow: false
