@@ -23,11 +23,15 @@ sections:
     title: Current Offerings
     features:
       - content: |
-          *   Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
+          *   Specifications - 93% +- 3% Oxygen Saturation at all flow rates
 
-          *   Price and Availabity - **60,000 + GST**;  Minimum - 10 units
+          *   Certifications - CE, FDA approved
 
-          *   Delivery - 19th May
+          *   Price and Availabity - **60,000 + GST**
+
+          *   Minimum Quantity for Delivery - 10 units
+
+          *To place order, contact us directly*
 
           ***
         align: left
@@ -38,17 +42,18 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-        title: JUMAO 5 LPM - (Ready Stock)
+        title: JUMAO 5 LPM
       - title: SYSMED 10 LPM - Medical Grade
-        content: >
-          *   Specifications - 93% +- 3%; Oxygen Saturation; CE Certified; US
-          Based 
+        content: |
+          *   Specifications - 93% +- 3% Oxygen Saturation at all flow rates
 
+          *   Certifications - CE, FDA approved
 
-          *   Price and Availabity - **96,000 + GST;**  Minimum - 15 units
+          *   Price and Availabity - **96,000 + GST**
 
+          *   Minimum Quantity for Delivery - 10 units
 
-          *   Delivery -  31st May, 2021
+          *To place order, please contact us directly*
         align: left
         image: images/sysmed_new_1.PNG
         image_alt: Feature 2 placeholder image
@@ -62,11 +67,15 @@ sections:
             type: action
       - title: DYNMED 10 LPM
         content: |
-          *   Specifications - 93% +- 3% \*Oxygen Saturation; CE Certified;
+          *   Specifications - 93% +- 3% \*Oxygen Saturation at all flow rates
 
-          *   Price and Purchase Qty- **96,000 + GST**;  Minimum Qty- 15units
+          *   Certifications - CE, FDA approved
 
-          *   Delivery -  5th June, 2021
+          *   Price and Availabity - **96,000 + GST**
+
+          *   Minimum Quantity for Delivery - 10 units
+
+          *To place order, please contact us directly*
         align: left
         image: images/incredible-hedgehog.PNG
         image_alt: DYNMED
