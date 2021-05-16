@@ -85,17 +85,14 @@ sections:
             url: /dynmed
             style: secondary
       - title: K5BW 5 LPM Oxygen Concentrator
-        content: >
+        content: |
           *   Medical Grade with 93% +- 3% Oxygen Saturation
-
 
           *   Price - Rs 74,000 + GST
 
+          To place order, please contact us directly.
 
-          *For delivery, please contact us directly.*
-
-
-          \*\*![](/images/WhatsApp%20Image%202021-05-15%20at%2011.11.51%20PM.jpeg)
+          ![](/images/WhatsApp%20Image%202021-05-15%20at%2011.11.51%20PM.jpeg)
         align: left
         image_alt: lorem-ipsum
         image_position: left
