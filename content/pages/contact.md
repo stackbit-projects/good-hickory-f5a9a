@@ -1,9 +1,6 @@
 ---
 title: Contact
 sections:
-  - content: |2
-          You can email us at 
-    type: content_section
   - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
