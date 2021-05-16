@@ -1,7 +1,7 @@
 ---
 title: Contact
 sections:
-  - title: lorem-ipsum
+  - title: Get in Touch
     content: >-
       ## Lorem ipsum
 
