@@ -20,7 +20,7 @@ sections:
       background_image: images/fabulous-plankton.jpeg
     subtitle: >-
       Cross Border Supply of COVID Care Commodities such as Oxygen
-      Concentrators, 
+      Concentrators, Para Monitor
   - type: features_section
     title: Current Offerings
     features:
