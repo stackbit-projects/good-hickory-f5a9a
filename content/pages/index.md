@@ -108,7 +108,7 @@ sections:
         content: |
           *   Industrial Grade Paramonitor
 
-          *   CE Certified, ISO Approved
+          *   CE Certified, ISO Approved, WHO Standard Specs
 
           *   Price - Rs 52,000 + GST
 
