@@ -49,16 +49,21 @@ sections:
             style: secondary
         title: JUMAO 5 LPM
       - title: SYSMED 10 LPM - Medical Grade
-        content: |
+        content: >
           *   Specifications - 93% +- 3% Oxygen Saturation at all flow rates
+
 
           *   Certifications - CE, FDA approved, WHO Standards
 
+
           *   Price and Availabity - **96,000 + GST**
+
 
           *   Minimum Quantity for Delivery - 10 units
 
-          *To place order, please contact us directly*
+
+          *To place order, please *[*contact
+          us*](https://good-hickory-f5a9a.netlify.app/contact/)* directly*
         align: left
         image: images/sysmed_new_1.PNG
         image_alt: Feature 2 placeholder image
