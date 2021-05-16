@@ -87,7 +87,7 @@ sections:
   - type: blog_feed_section
     title: Our Services
     show_recent: true
-    recent_count: 3
+    recent_count: 2
   - type: cta_section
     title: About Us
     subtitle: "Established in 2017, NIVAID has been providing supply management solutions to global institutional, wholesale, retail, and ecommerce players. Our base of service providers for streamlined repair and maintainence enables us to provide holistic quality services to our end consumers.\_Supplemented by a localized supply chain, end-to-end logistics and technology infrastructure, NIVAID offers a complete suite of sourcing & distribution solutions."
