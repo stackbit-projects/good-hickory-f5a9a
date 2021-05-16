@@ -37,11 +37,8 @@ sections:
           *   Minimum Quantity for Delivery - 10 units
 
 
-          *To place order, please *[*contact
-          us*](https://good-hickory-f5a9a.netlify.app/contact/)* directly*
-
-
-          ***
+          *To place order, *[*contact
+          us*](https://good-hickory-f5a9a.netlify.app/contact/)* directly.*
         align: left
         image: images/JUMAO_new_1.PNG
         image_alt: Feature 1 placeholder image
