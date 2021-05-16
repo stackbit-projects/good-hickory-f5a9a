@@ -60,7 +60,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /s
+            url: /synmed
             style: primary
             new_window: false
             no_follow: false
