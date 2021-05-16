@@ -86,7 +86,7 @@ sections:
             style: secondary
   - type: blog_feed_section
     title: Our Services
-    show_recent: true
+    show_recent: false
     recent_count: 3
   - type: cta_section
     title: About Us
