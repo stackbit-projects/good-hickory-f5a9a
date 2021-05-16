@@ -18,7 +18,7 @@ sections:
       background_image_size: auto
       background_image_repeat: no-repeat
       background_image: images/fabulous-plankton.jpeg
-    subtitle: 'Cross Border Supply of COVID Care Commodities '
+    subtitle: Cross Border Supply of COVID Care Commodities such as Oxyge
   - type: features_section
     title: Current Offerings
     features:
