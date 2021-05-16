@@ -22,7 +22,7 @@
             }
         ]
     },
-    "domain": "https://nivaidin.netlify.app",
+    "domain": "https://nivaidinfra.netlify.app",
     "footer": {
         "has_nav": true,
         "nav_links": [],
