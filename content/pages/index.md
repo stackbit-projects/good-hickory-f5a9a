@@ -18,7 +18,9 @@ sections:
       background_image_size: auto
       background_image_repeat: no-repeat
       background_image: images/fabulous-plankton.jpeg
-    subtitle: Cross Border solutions of COVID related infra
+    subtitle: >-
+      Cross Border Solutions for quality Life Saving commodities such as Oxygen
+      Concentrators, Para Monitors, Nebulizer etc..
   - type: features_section
     title: Current Offerings
     features:
