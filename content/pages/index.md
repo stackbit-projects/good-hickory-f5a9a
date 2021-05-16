@@ -84,7 +84,7 @@ sections:
           - label: Learn More
             url: /dynmed
             style: secondary
-      - title: lorem-ipsum
+      - title: 5 LPM
         content: >-
           ## Lorem ipsum
 
