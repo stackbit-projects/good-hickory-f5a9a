@@ -82,7 +82,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: /dynmed
             style: secondary
   - type: blog_feed_section
     title: Our Services
