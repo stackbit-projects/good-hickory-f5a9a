@@ -75,7 +75,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: DYNMED 10 LPM
+      - title: DYNMED 10 LPM - O2 Concentrator
         content: >
           *   Specifications - 93% +- 3% \*Oxygen Saturation at all flow rates
 
