@@ -144,7 +144,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: Flowmeter with Humdifier and Regulator
+      - title: Flowmeter / Humdifier / Regulator
         content: >+
           Specially Designed Metal Knob; Poly Carbonate Bottle ; Specialy Made
           spindle for fine adjustment; Adjustable reductor; Used At
