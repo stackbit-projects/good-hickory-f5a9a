@@ -48,7 +48,7 @@ sections:
             url: /features
             style: secondary
         title: JUMAO 5 LPM - O2 Concentrator
-      - title: SYSMED 10 LPM - Medical Grade
+      - title: SYSMED 10 LPM - O2 Concentrator (Medical Grade)
         content: >
           *   Specifications - 93% +- 3% Oxygen Saturation at all flow rates
 
