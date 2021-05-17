@@ -144,7 +144,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: Flowmeter with Humdifier and Regulator
         content: >-
           ## Lorem ipsum
 
