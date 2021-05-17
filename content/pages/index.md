@@ -160,7 +160,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-      - title: lorem-ipsum
+      - title: Pulse Oximeters
         content: >-
           ## Lorem ipsum
 
