@@ -99,7 +99,7 @@ sections:
           - label: Learn More
             url: /dynmed
             style: secondary
-      - title: K5BW 5 LPM Oxygen Concentrator
+      - title: K5BW 5 LPM O2 Concentrator (Medical Grade)
         content: |
           *   Medical Grade with 93% +- 3% Oxygen Saturation
 
