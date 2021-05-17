@@ -21,6 +21,8 @@ sections:
     subtitle: >-
       Supply Chain Solutions for top quality life saving commodities such as
       Oxygen Concentrators, Para Monitors etc...
+    subtitle: >-
+    O
   - type: features_section
     title: Current Availability
      
