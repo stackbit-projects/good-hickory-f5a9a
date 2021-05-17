@@ -23,6 +23,7 @@ sections:
       Oxygen Concentrators, Para Monitors etc...
   - type: features_section
     title: Current Availability
+     label: Contact Us
     features:
       - content: >
           *   Specifications - 93% +- 3% Oxygen Saturation at all flow rates
